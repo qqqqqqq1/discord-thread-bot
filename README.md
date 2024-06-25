@@ -1,5 +1,3 @@
-Certainly. I'll provide technical documentation for this Discord bot. Here's a structured overview of its functionality, components, and setup:
-
 # Discord Promotion Bot - Technical Documentation
 
 ## Overview
@@ -85,5 +83,3 @@ node bot.js
 ```
 
 Ensure that the Discord bot token and Spotify API credentials are correctly set in the `.env` file before running.
-
-This documentation provides an overview of the bot's functionality and structure. For any modifications or further development, refer to the inline comments in the code for detailed explanations of specific sections.
